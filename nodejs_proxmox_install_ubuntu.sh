@@ -18,3 +18,4 @@ echo "you can now exit the ssh and login as root user with the password you put"
 curl -sL https://deb.nodesource.com/setup_14.x -o nodesource_setup.sh
 sudo bash nodesource_setup.sh
 sudo apt install nodejs -y
+sudo apt-get install gcc g++ make
